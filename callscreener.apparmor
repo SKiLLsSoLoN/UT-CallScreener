@@ -1,0 +1,8 @@
+{
+    "policy_version": @APPARMOR_POLICY@,
+    "policy_groups": [
+        "audio",
+        "microphone"
+    ],
+    "template": "ubuntu-sdk"
+}

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Call Screener
+Comment=Screen unknown incoming calls
+Exec=qmlscene %U qml/Main.qml
+Icon=assets/icons/logo.svg
+Terminal=false
+Type=Application
+X-Lomiri-Single-Instance=true

@@ -1,0 +1,15 @@
+{
+    "name": "callscreener.yourname",
+    "description": "Screen incoming calls — play WAV prompts, record caller response, accept or hang up.",
+    "title": "Call Screener",
+    "framework": "@CLICK_FRAMEWORK@",
+    "architecture": "@CLICK_ARCH@",
+    "version": "1.0.0",
+    "maintainer": "Your Name <you@example.com>",
+    "hooks": {
+        "callscreener": {
+            "apparmor": "callscreener.apparmor",
+            "desktop": "callscreener.desktop"
+        }
+    }
+}
