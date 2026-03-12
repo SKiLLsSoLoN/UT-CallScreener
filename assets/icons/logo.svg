@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="22" fill="#0e0e11"/>
+  <rect width="98" height="98" x="1" y="1" rx="21" fill="none" stroke="#7efff5" stroke-width="1.5"/>
+  <!-- Phone handset -->
+  <path d="M35 30 Q33 28 35 25 L42 18 Q45 15 48 18 L54 24 Q57 27 54 30 L51 33 Q53 38 57 42 Q61 46 66 48 L69 45 Q72 42 75 45 L81 51 Q84 54 81 57 L74 64 Q71 67 68 65 Q55 60 44 49 Q33 38 35 30Z"
+        fill="#7efff5" opacity="0.9"/>
+  <!-- Signal waves -->
+  <path d="M62 25 Q70 33 70 43" fill="none" stroke="#06d6a0" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  <path d="M67 20 Q78 31 78 45" fill="none" stroke="#06d6a0" stroke-width="3" stroke-linecap="round" opacity="0.4"/>
+</svg>
